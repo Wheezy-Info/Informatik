@@ -30,4 +30,4 @@ CREATE TABLE Nutzer
    insert into Nutzer
    values (909,Kegy,Kegygmail_com,47423,28,19-08-2012,229700,771);
    insert into Nutzer
-   values (1010,LeFloid,kontakt-LeFloidgmail_com,59834,34,14-10-2007,3051144,803);
+   values (1010,LeFloid,kontaktLeFloidgmail_com,59834,34,14-10-2007,3051144,803);
